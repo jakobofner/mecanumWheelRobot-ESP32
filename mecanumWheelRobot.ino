@@ -1,14 +1,3 @@
-/*    digitalWrite(14, HIGH);
-      digitalWrite(26, HIGH);
-      digitalWrite(33, HIGH);
-      digitalWrite(12, HIGH);
-      delay(1000);
-      digitalWrite(14, LOW);
-      digitalWrite(26, LOW);
-      digitalWrite(33, LOW);
-      digitalWrite(12, LOW);
-      delay(1000);*/
-
 #include "BluetoothSerial.h"
 #include <ArduinoJson.h>
 #include "pwmConf.h"
